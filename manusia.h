@@ -2,7 +2,7 @@
 #define MANUSIA_H
 #include <iostream>
 #include "jantung.h"
-    
+
 using namespace std;
 
 class manusia {
@@ -18,4 +18,4 @@ public:
         cout << name << " mati\n";
     }
 };
-#endif
+#endif//
